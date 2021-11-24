@@ -86,15 +86,9 @@ Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
 
-**Workflows with Nextflow**
+**Introduction to Conda*
 
-This lesson is a two day introduction to the workflow manager [Nextflow](https://www.nextflow.io/), and [nf-core](https://nf-co.re/), a community effort to collect a curated set of analysis pipelines built using Nextflow.
-
-Nextflow enables scalable and reproducible scientific workflows using software enviroments like conda. It allows the adaptation of pipelines written in the most common scripting languages such as Bash, R and Python. Nextflow is a Domain Specific Language (DSL) that simplifies the implementation and the deployment of complex parallel and reactive workflows on clouds and clusters.
-
-This lesson also introduces nf-core: a framework that provides a community-driven, peer reviewed platform for the development of best practice analysis pipelines written in Nextflow.
-
-This lesson motivates the use of Nextflow and nf-core as a development tool for building and sharing computational pipelines that facilitate reproducible (data) science workflows.
+This lesson is an introduction to Conda for (data) scientists with an emphasis on Bioinformatics. Conda is an open source package and environment management system that runs on Windows, macOS and Linux. Conda installs, runs, and updates packages and their dependencies. Conda easily creates, saves, loads, and switches between environments on your local computer. While Conda was created for Python programs it can package and distribute software for any languages such as R, Ruby, Lua, Scala, Java, JavaScript, C/ C++, FORTRAN. This lesson motivates the use of Conda as a development tool for building and sharing project specific software environments that facilitate reproducible bioinformatic workflows.
   
 **Ed-DaSH**
 
