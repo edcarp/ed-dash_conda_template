@@ -48,7 +48,7 @@ flavor: "r"
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Workflows with Nextflow"
+title: "Introduction to Conda"
 
 #------------------------------------------------------------
 # Pilot workshop settings (only relevant for lesson pilots).
@@ -79,7 +79,7 @@ repository: <USERNAME>/<PROJECT>
 # Email address, no mailto:
 # (Don't change this -- the contact address for your workshop will be set
 # in the index.md file)
-email: "team@carpentries.org"
+email: "Sharon.McDonald@ed.ac.uk"
 
 # Sites.
 amy_site: "https://amy.carpentries.org/"
